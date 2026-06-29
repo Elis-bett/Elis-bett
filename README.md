@@ -1,11 +1,6 @@
 # Tech stack
 
-**Main language:**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-**Data Science (my focus):**
+**Data Analysis**
 <p align="left">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
@@ -14,7 +9,7 @@
 
 **System programming/development:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,kotlin" />
 </p>
 
 **Instruments and databases:**
