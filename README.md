@@ -17,4 +17,4 @@
   <img src="https://skillicons.dev/icons?i=docker,git,postgres" />
 </p>
 
-[Elis-bett's github activity graph](https://activity-graph.herokuapp.com/graph?username=Elis-bett)](https://github.com/Elis-bett/github-readme-activity-graph)
+![Elis-bett's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Elis-bett)
