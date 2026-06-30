@@ -17,4 +17,6 @@
   <img src="https://skillicons.dev/icons?i=docker,git,postgres" />
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Elis-bett)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![Elis-bett's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Elis-bett)
