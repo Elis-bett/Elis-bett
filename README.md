@@ -17,5 +17,3 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,git,postgres" />
 </p>
-
-![Elis-bett's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Elis-bett&bg_color=ffffff&color=800020&line=800020&point=800020&area=true&hide_border=true)
