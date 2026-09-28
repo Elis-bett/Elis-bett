@@ -10,7 +10,7 @@
 
 **System programming/development:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,kotlin" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,kotlin,golang" />
 </p>
 
 **Instruments and databases:**
